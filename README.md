@@ -10,8 +10,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/juanmderosa/advicegeneratorapp
-- Live Site URL: [Add live site URL here](https://juanmderosa.github.io/advicegeneratorapp/)
+- Solution URL: [https://github.com/juanmderosa/advicegeneratorapp]
+- Live Site URL: [https://juanmderosa.github.io/advicegeneratorapp/]
 
 ## My process
 
